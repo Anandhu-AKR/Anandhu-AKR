@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm AKR</h1>
+<h1 align="center">👋 Hello, I'm Anandhu Krishnan R</h1>
 <p align="center">
 🚗 Embedded Systems • IoT • Microcontroller Projects • Real-Time Systems <br>
 📍 Kochi, India
