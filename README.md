@@ -56,15 +56,14 @@ I'm a passionate and hands-on **Embedded Systems Engineer** specializing in buil
 ---
 ## 🚀 Highlight Projects
 
-| 💡 Project | 🔍 Description |
-|-----------|----------------|
-| 🔗 [ASIV – Automatic Safety Indicator for Vehicles](https://github.com/akr070/ASIV) | ESP32 + Google Maps SDK + Firebase to automatically trigger indicators 150m before maneuvers |
-| 🔗 [CAN Bus Microcontroller Communication](https://github.com/akr070/can-demo) | CAN communication setup using MCP2515 between two MCUs |
-| 🔗 [Motor Driver + LCD on LPC2138](https://github.com/akr070/lpc2138-motor-lcd) | Control two motors using L293D driver and display info on 16x2 LCD |
-| 🔗 [GSM + GPS Vehicle Tracker](https://github.com/akr070/gsm-gps-tracker) | Uses SIM800 and NMEA GPS module to send location via SMS |
-| 🔗 [Automatic Door Using PIR Sensor](https://github.com/akr070/pir-auto-door) | PIR-based door automation system with motor control |
-| 🔗 [Sensor Dashboard with Firebase](https://github.com/akr070/iot-sensor-cloud) | ESP32 publishes temperature and distance data to Firebase |
-| 🔗 [Embedded Protocol Demos](https://github.com/akr070/embedded-protocols) | Basic SPI, I2C, USB, and Ethernet communication examples |
+| 💡 Project                                  | 🔍 Description                                                             |
+|---------------------------------------------|-----------------------------------------------------------------------------|
+| 🔗 [PIC-PIC CAN Bus Data Bridge](https://github.com/Anandhu-AKR/PIC-PIC_CAN_Bus_Data_Bridge) | CAN-based data bridge using two PIC18F4580 microcontrollers. Transmits data between PC terminals over CAN. |
+| 🔗 [AVR Microcontroller Projects](https://github.com/Anandhu-AKR/AVR_Microcontroller_Projects) | Collection of projects using ATmega series (LCD interfacing, motor control, keypad, etc.). |
+| 🔗 [KEYPAD PASSWORD ATMEGA32](https://github.com/Anandhu-AKR/KEYPAD_PASSWORD_ATMEGA32) | Password-protected motor control system using keypad and LCD on ATmega32. |
+| 🔗 [Automatic Door System using PIR and Arduino](https://github.com/Anandhu-AKR/Automatic-Door-System-PIR-Arduino) | Motion-activated door control using PIR sensor, Arduino, LCD, and servo motor. |
+| 🔗 [FIREBASE DHT11](https://github.com/Anandhu-AKR/FIREBASE_DHT11) | ESP8266 project logging DHT11 temperature & humidity data to Firebase Realtime Database. |
+| 🔗 [PIC Microcontroller Projects](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects) | Collection of projects with PIC18 series (LED patterns, LCD, UART, ADC, motor drivers, etc.). |
 
 ---
 
