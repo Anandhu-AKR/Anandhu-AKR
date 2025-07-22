@@ -49,9 +49,14 @@ I'm a passionate and hands-on **Embedded Systems Engineer** specializing in buil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Proteus](https://img.shields.io/badge/Proteus-0082C9?style=flat)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=flat&logo=kicad&logoColor=white)
+![EAGLE](https://img.shields.io/badge/EAGLE-AE8B00?style=flat&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-2C3E50?style=flat&logo=easyeda&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat&logo=zigbee&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-ED1C24?style=flat&logo=microchip&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-uVision-blue)
+
 
 ---
 ## 🚀 Highlight Projects
