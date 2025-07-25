@@ -61,14 +61,16 @@ I'm a passionate and hands-on **Embedded Systems Engineer** specializing in buil
 ---
 ## 🚀 Highlight Projects
 
-| 💡 Project                                  | 🔍 Description                                                             |
-|---------------------------------------------|-----------------------------------------------------------------------------|
-| 🔗 [PIC-PIC CAN Bus Data Bridge](https://github.com/Anandhu-AKR/PIC-PIC_CAN_Bus_Data_Bridge) | CAN-based data bridge using two PIC18F4580 microcontrollers. Transmits data between PC terminals over CAN. |
-| 🔗 [AVR Microcontroller Projects](https://github.com/Anandhu-AKR/AVR_Microcontroller_Projects) | Collection of projects using ATmega series (LCD interfacing, motor control, keypad, etc.). |
-| 🔗 [KEYPAD PASSWORD ATMEGA32](https://github.com/Anandhu-AKR/KEYPAD_PASSWORD_ATMEGA32) | Password-protected motor control system using keypad and LCD on ATmega32. |
-| 🔗 [Automatic Door System using PIR and Arduino](https://github.com/Anandhu-AKR/Automatic-Door-System-PIR-Arduino) | Motion-activated door control using PIR sensor, Arduino, LCD, and servo motor. |
-| 🔗 [FIREBASE DHT11](https://github.com/Anandhu-AKR/FIREBASE_DHT11) | ESP8266 project logging DHT11 temperature & humidity data to Firebase Realtime Database. |
-| 🔗 [PIC Microcontroller Projects](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects) | Collection of projects with PIC18 series (LED patterns, LCD, UART, ADC, motor drivers, etc.). |
+| 💡 Project | 🔍 Description |
+|---|---|
+| 🔗 [GPS-Data-Parser-Arduino](https://github.com/Anandhu-AKR/GPS-Data-Parser-Arduino) | A simple Arduino project that reads GPS data, extracts latitude, longitude, and UTC time, converts UTC to IST (Indian Standard Time), and prints it. |
+| 🔗 [LPC2138-FreeRTOS-Semaphore-Mutex-Demo](https://github.com/Anandhu-AKR/LPC2138-FreeRTOS-Semaphore-Mutex-Demo) | A demo project showcasing FreeRTOS counting semaphores and mutexes on LPC2138 microcontroller, using UART debug output and push-button switches. |
+| 🔗 [PIC-PIC CAN Bus Data Bridge](https://github.com/Anandhu-AKR/PIC-PIC_CAN_Bus_Data_Bridge) | A project showcasing a simple yet powerful CAN bus bridge using two PIC18F4580 microcontrollers. Transmits data from a PC terminal to another PC through CAN. |
+| 🔗 [AVR Microcontroller Projects](https://github.com/Anandhu-AKR/AVR_Microcontroller_Projects) | This repository contains a collection of embedded systems projects using AVR microcontrollers (mainly ATmega series). |
+| 🔗 [KEYPAD PASSWORD ATMEGA32](https://github.com/Anandhu-AKR/KEYPAD_PASSWORD_ATMEGA32) | Password-protected motor control system using keypad and LCD with ATmega32 microcontroller. |
+| 🔗 [Automatic Door System using PIR and Arduino](https://github.com/Anandhu-AKR/Automatic-Door-System-PIR-Arduino) | An automatic door system using Arduino, PIR motion sensor, 16x2 LCD, and a servo motor. Detects motion and opens/closes the gate automatically with real-time LCD display. |
+| 🔗 [FIREBASE DHT11](https://github.com/Anandhu-AKR/FIREBASE_DHT11) | ESP8266 project to log DHT11 temperature and humidity data to Firebase Realtime Database. |
+| 🔗 [PIC Microcontroller Projects](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects) | This repository contains a collection of embedded systems projects using PIC microcontrollers (mainly PIC18 series). |
 
 ---
 
