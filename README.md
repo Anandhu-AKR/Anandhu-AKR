@@ -16,16 +16,17 @@ I'm a passionate and hands-on **Embedded Systems Engineer** specializing in buil
 - Real-time data acquisition with cloud integration (Firebase, Google Maps SDK)
 - Linux command-line and Raspberry Pi-based automation
 - Hardware integration using motor drivers, sensors, and displays
+- PCB designing
 
 ---
 
 ## 🔧 Tools, Tech & Platforms
 
 - 💻 **Languages**: C, Embedded C, C++, Python (basic), Shell
-- ⚙️ **Microcontrollers**: PIC18F, LPC2138, STM32, ESP32, ATmega328
+- ⚙️ **Microcontrollers**: PIC18F, LPC2138, STM32, ESP32, NODEMCU, ATmega32
 - 📡 **Interfaces**: UART, SPI, I2C, CAN, RS232, USB, Ethernet
-- 📟 **Modules**: GSM (SIM800), GPS (NMEA), ZigBee, PIR sensor, OLED/LCD
-- 🧰 **Tools**: MPLAB X, Keil uVision, STM32CubeIDE, Arduino IDE, Proteus, KiCAD
+- 📟 **Modules**: GSM (SIM800), GPS (NMEA), ZigBee, PIR sensor, OLED/LCD, HC-05
+- 🧰 **Tools**: MPLAB X, Keil uVision, STM32CubeIDE, Arduino IDE, Proteus, KiCAD, EAGLE autodesk, EasyEDA
 - ☁️ **IoT/Cloud**: Firebase, Blynk, Google Maps SDK
 - 🧠 **OS**: FreeRTOS (basic), Linux (Raspberry Pi, terminal-based tools)
 
@@ -76,8 +77,8 @@ I'm a passionate and hands-on **Embedded Systems Engineer** specializing in buil
 
 ## 📫 Connect with Me
 
-- 🌐 LinkedIn: [linkedin.com/in/anandhukr9394](https://www.linkedin.com/in/anandhukr9394)
-- 📧 Email: akr9394@gmail.com
+- 🌐 LinkedIn: `[linkedin.com/in/anandhukr9394](https://www.linkedin.com/in/anandhukr9394)`
+- 📧 Email: `akr9394@gmail.com`
 
 ---
 
