@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Anandhu Krishnan R</h1>
 <p align="center">
-🚀 Embedded Systems Engineer • Robotics & Autonomous Systems • IoT • Firmware Developer <br>
+🔌 Embedded Systems & Firmware Engineer • IoT Developer • Real-Time Systems • ROS 2 <br>
 📍 Kochi, India
 </p>
 
@@ -8,79 +8,76 @@
 
 ## 🧠 About Me
 
-I am an **Embedded Systems & Robotics Engineer** specializing in the design and development of intelligent, real-time autonomous systems. My work spans the entire stack, from low-level register configuration and RTOS task scheduling on microcontrollers to high-level multi-node system coordination using ROS 2 and web-based telemetry dashboards.
+I am a hands-on **Embedded Systems & Firmware Engineer** specializing in bare-metal and RTOS-based firmware development, hardware-level communication protocols, and microcontroller peripheral interfacing. I build low-latency, deterministic applications on 8-bit, 16-bit, and 32-bit silicon architectures, and integrate them with IoT cloud infrastructure and ROS 2 middleware for robotic applications.
 
 ### 🔬 Core Competencies:
-- **Autonomous Systems & Robotics**: ROS 2 node architecture (`rclpy`), distributed messaging, and WebSocket-based HMI dashboards (`rosbridge`, `roslibjs`).
-- **Firmware & Real-Time Systems**: RTOS task management, semaphores, mutexes, and interrupt-driven peripheral control.
-- **Hardware Protocols & Interfacing**: Direct register implementation of CAN, SPI, I2C, UART, and RS232.
-- **IoT & Cloud Integration**: Real-time cloud streaming (Firebase), remote telemetry, and sensor network integration.
-- **PCB Design & Prototyping**: Schematic capture, layout design, and hardware debugging.
+- **Firmware & Real-Time Operating Systems**: Task coordination, counting/binary semaphores, mutexes, and priority-based scheduling using FreeRTOS.
+- **Hardware Protocols & Interfaces**: Low-level driver implementation of CAN Bus, SPI, I2C, UART, RS232, and serial bridging.
+- **Microcontroller Peripherals**: Register-level configuration of Timers, Interrupts (ISR), ADC, PWM, and GPIO on ARM Cortex, PIC18, LPC2138, and ATmega architectures.
+- **IoT & Wireless Telemetry**: Cloud data logging (Firebase), cellular/RF communication (GSM SIM800, ZigBee), and WiFi-enabled microcontrollers.
+- **Robotics & Middleware (ROS 2)**: Interfacing physical/simulated firmware drivers with ROS 2 nodes (`rclpy`) and real-time WebSocket dashboard HMIs.
 
 ---
 
 ## 🎯 Current Focus
-- Developing deterministic multi-node robotic systems and testing sensor fusion frameworks.
-- Optimizing low-latency data bridges between hardware transceivers (CAN/UART) and ROS 2 communication nodes.
-- Designing high-availability IoT systems using ESP32 and cellular transceivers.
+- Developing register-level firmware drivers for ARM Cortex-M microcontrollers.
+- Interfacing hardware-level telemetry buses (like CAN and serial) with higher-level ROS 2 autonomous systems.
+- Optimizing power management and low-latency task scheduling in FreeRTOS environments.
 
 ---
 
 ## 🔧 Tools, Tech & Platforms
 
 - 💻 **Languages**: C, Embedded C, C++, Python, Shell Scripting
-- ⚙️ **Robotics**: ROS 2 (Humble/Iron), `rosbridge_suite`, `roslibjs`, Node-to-Node Telemetry, Sensor Fusion
-- 📟 **Microcontrollers / Processors**: STM32 (ARM Cortex-M), LPC2138 (ARM7), ESP32, PIC18F, ATmega32, Raspberry Pi
-- 📡 **Protocols & Interfaces**: CAN Bus, FreeRTOS, SPI, I2C, UART, RS232, GSM (SIM800), GPS (NMEA)
-- 🧰 **Tools**: MPLAB X, Keil uVision, STM32CubeIDE, Arduino IDE, Proteus, KiCAD, EAGLE, EasyEDA
-- ☁️ **IoT/Cloud**: Firebase Realtime Database, Google Maps SDK, Blynk
+- ⚙️ **Microcontrollers / Processors**: STM32 (ARM Cortex-M), LPC2138 (ARM7), ESP32, PIC18F, ATmega32, NODEMCU, Raspberry Pi
+- 📡 **Protocols, OS & Middleware**: FreeRTOS, CAN Bus, SPI, I2C, UART, RS232, GSM (SIM800), GPS (NMEA), ROS 2 (Humble)
+- 🧰 **Tools & IDEs**: MPLAB X, Keil uVision, STM32CubeIDE, Arduino IDE, Proteus, KiCAD, EAGLE, EasyEDA
+- ☁️ **IoT & Databases**: Firebase Realtime Database, Blynk, Google Maps SDK
 
 ---
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00B5AD?style=flat&logo=freertos&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-000000?style=flat&logo=Microchip&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![ATmega](https://img.shields.io/badge/ATmega-000000?style=flat&logo=atmel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00B5AD?style=flat&logo=freertos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC-000000?style=flat&logo=Microchip&logoColor=white)
-![ATmega](https://img.shields.io/badge/ATmega-000000?style=flat&logo=atmel&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=flat&logo=kicad&logoColor=white)
 ![EAGLE](https://img.shields.io/badge/EAGLE-AE8B00?style=flat&logo=autodesk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🤖 Featured ROS 2 & Robotics Projects
+## 🔌 Highlighted Embedded Systems & IoT Projects
 
-| 💡 Project | 🔍 System Architecture & Description |
+| 💡 Project | 🔍 System Architecture & Firmware Details |
 |---|---|
-| 🔗 [ROS2_AGV_Core](https://github.com/Anandhu-AKR/ROS2_AGV_Core) | **Autonomous Smart Factory AGV System** coordinating 10 concurrent nodes (Sensors, BMS, Navigation, Safety) via custom publisher arrays. Includes a premium real-time glassmorphic control dashboard using `rosbridge_websocket` for live telemetry monitoring and emergency E-Stop capability. |
-| 🔗 [ROS2_Drone_Core](https://github.com/Anandhu-AKR/ROS2_Drone_Core) | **Autonomous UAV Delivery System** utilizing 10 modular flight, telemetry, and failsafe nodes. Features structured GPS coordinates tracking, altitude stabilization, and a futuristic cockpit web interface showcasing live aircraft orientation and control. |
-| 🔗 [ROS2_Fusion_System](https://github.com/Anandhu-AKR/ROS2_Fusion_System) | **Real-Time Sensor Fusion Hub** aggregating telemetry streams from simulated IMU and LiDAR sensors. Implements a central evaluation node that fuses orientation and distance data to broadcast workspace safety levels. |
-| 🔗 [ROS2_Collision_System](https://github.com/Anandhu-AKR/ROS2_Collision_System) | **Active Safety System** utilizing a radar sensor simulator node and a guard evaluation node. Evaluates distance threshold parameters in real time to trigger warnings. |
-| 🔗 [ROS2_Telemetry_System](https://github.com/Anandhu-AKR/ROS2_Telemetry_System) | **Kinematic Telemetry Translator** demonstrating node-to-node communication. Converts raw rotational wheel encoder pulses (RPM) to linear speed outputs based on standard kinematic models. |
+| 🔗 [PIC-PIC CAN Bus Data Bridge](https://github.com/Anandhu-AKR/PIC-PIC_CAN_Bus_Data_Bridge) | **Inter-MCU Communication Protocol Bridge** establishing a serial message bridge between two PIC18F4580 controllers. Configured MCP2551 CAN transceivers at register-level to route serial data over a hardware CAN bus. |
+| 🔗 [LPC2138-FreeRTOS-Semaphore-Mutex-Demo](https://github.com/Anandhu-AKR/LPC2138-FreeRTOS-Semaphore-Mutex-Demo) | **RTOS Resource & Task Coordinator** showcasing FreeRTOS counting semaphores and mutex locks on an ARM7 (LPC2138) MCU. Implements priority inheritance to prevent priority inversion during shared UART bus access. |
+| 🔗 [GPS-Data-Parser-Arduino](https://github.com/Anandhu-AKR/GPS-Data-Parser-Arduino) | **Interrupt-Driven NMEA Parser** extracting latitude, longitude, and UTC timestamps from a GPS receiver. Processes incoming UART serial buffers and converts global coordinate references to Indian Standard Time (IST). |
+| 🔗 [FIREBASE_DHT11](https://github.com/Anandhu-AKR/FIREBASE_DHT11) | **WiFi Telemetry Node** using ESP8266 to log DHT11 sensor data. Utilizes non-blocking network streams to upload sensor data periodically to a Firebase Realtime Database. |
+| 🔗 [Automatic Door System PIR Arduino](https://github.com/Anandhu-AKR/Automatic-Door-System-PIR-Arduino) | **Event-Driven Actuation System** utilizing PIR sensors, a servo controller, and a 16x2 LCD display. Uses external pin interrupts (ISR) for motion triggers to save processor cycles. |
+| 🔗 [PIC Microcontroller Projects](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects) | **Firmware Peripheral Library** containing code templates for ADC conversions, internal hardware timers, PWM duty cycle controls, and 7-segment/LCD displays for the PIC18 MCU series. |
+| 🔗 [AVR Microcontroller Projects](https://github.com/Anandhu-AKR/AVR_Microcontroller_Projects) | **Register-Level AVR Library** featuring raw register configurations for timers, serial UART communication, SPI interfaces, and general GPIO manipulation on the ATmega series. |
 
 ---
 
-## 🔌 Featured Embedded Systems & IoT Projects
+## 🤖 Robotics & ROS 2 Middleware Projects
 
-| 💡 Project | 🔍 Hardware Description |
+| 💡 Project | 🔍 Robotics Software & Middleware Details |
 |---|---|
-| 🔗 [PIC-PIC CAN Bus Data Bridge](https://github.com/Anandhu-AKR/PIC-PIC_CAN_Bus_Data_Bridge) | Inter-MCU communication bridge establishing reliable serial terminal message streaming between two PIC18F4580 controllers via a physical CAN network. |
-| 🔗 [LPC2138-FreeRTOS-Semaphore-Mutex-Demo](https://github.com/Anandhu-AKR/LPC2138-FreeRTOS-Semaphore-Mutex-Demo) | Multitasking firmware demonstration using FreeRTOS counting semaphores and mutexes to manage resource sharing and task execution on an ARM7 (LPC2138) MCU. |
-| 🔗 [GPS-Data-Parser-Arduino](https://github.com/Anandhu-AKR/GPS-Data-Parser-Arduino) | GPS localization project parsing raw NMEA-0183 sentences, extracting spatial coordinates, and converting UTC to IST for display. |
-| 🔗 [FIREBASE_DHT11](https://github.com/Anandhu-AKR/FIREBASE_DHT11) | ESP8266 IoT logger mapping sensor parameters to a cloud database, showcasing real-time data streaming over Wi-Fi. |
-| 🔗 [Automatic Door System PIR Arduino](https://github.com/Anandhu-AKR/Automatic-Door-System-PIR-Arduino) | Interrupt-driven control system parsing PIR motion events to actuate a servo-controlled entry gate with real-time status output. |
-| 🔗 [PIC Microcontroller Projects](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects) | Curated repository containing firmware utilities, peripheral interfaces (ADCs, timers), and driver files written for the PIC18 microcontroller family. |
-| 🔗 [AVR Microcontroller Projects](https://github.com/Anandhu-AKR/AVR_Microcontroller_Projects) | Register-level programming utilities, peripheral drivers, and applications written for ATmega microcontrollers. |
+| 🔗 [ROS2_AGV_Core](https://github.com/Anandhu-AKR/ROS2_AGV_Core) | **10-Node Autonomous Warehouse AGV** system coordinating motor controls, IMU sensors, BMS diagnostics, and lidar navigation. Integrates a real-time glassmorphic HTML/JS cockpit dashboard using `rosbridge_websocket` for control commands and telemetry updates. |
+| 🔗 [ROS2_Drone_Core](https://github.com/Anandhu-AKR/ROS2_Drone_Core) | **10-Node UAV Flight Telemetry Deck** managing altitude controls, GPS coordinates, compass headings, and battery diagnostics. Features a futuristic flight-cockpit web interface communicating with the flight controller node. |
+| 🔗 [ROS2_Fusion_System](https://github.com/Anandhu-AKR/ROS2_Fusion_System) | **Multi-Sensor Data Fusion Hub** subscribing to concurrent IMU (tilt pitch/roll) and LiDAR (ground proximity) data streams. Fuses telemetry to evaluate safety alerts and publish real-time hazard flags. |
+| 🔗 [ROS2_Collision_System](https://github.com/Anandhu-AKR/ROS2_Collision_System) | **Active Safety Controller** utilizing a simulated radar sensor publisher and an active guard evaluation subscriber to monitor safety distances and trigger warnings. |
+| 🔗 [ROS2_Telemetry_System](https://github.com/Anandhu-AKR/ROS2_Telemetry_System) | **Robotic Kinematics Translator** demonstrating basic publish-subscribe communication. Converts rotational wheel encoder data (RPM) to linear velocity (m/s) using differential drive kinematics. |
 
 ---
 
